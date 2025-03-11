@@ -47,10 +47,10 @@ The following models were trained and evaluated:
 - **Observation:** Performed well, but stacking improved results.
 
 ### 4. Stacking Classifier (Final Model: Random Forest + XGBoost + Logistic Regression)
-- **AUC-ROC Score:** `0.9186`
-- **F1-Score for Fraud:** `0.87`
+- **AUC-ROC Score:** `0.9162`
+- **F1-Score for Fraud:** `0.86`
 - **Recall for Fraud:** `0.89`
-- **Precision for Fraud:** `0.84`
+- **Precision for Fraud:** `0.83`
 - **Observation:** Best recall for fraud cases, reducing false negatives significantly.
 
 ## Key Takeaways
